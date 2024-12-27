@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Book name",
+    "author": "William Shakespeare",
+    "metadata": {
+      "price": 1500,
+      "categories": ["fantasy", "sci-fi"],
+      "isbn": "9781234567890",
+      "pages": 283
+    }
+  }
+]
